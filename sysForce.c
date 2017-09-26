@@ -1,3 +1,8 @@
+//
+//Empirical valence bond force routine for the symmetric 
+//SN2 reaction Cl- + CH3Cl <--> ClCH3 + Cl-
+//including interaction with water, bromooctane, and b-cyclodextrin
+//
 #include	<md.h>
 #include	<system.h>
 #include	<math.h>
